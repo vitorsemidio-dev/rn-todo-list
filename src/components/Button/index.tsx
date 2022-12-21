@@ -1,4 +1,5 @@
-import { Text, TouchableOpacity } from 'react-native';
+import { TouchableOpacity } from 'react-native';
+import { Text } from './styles';
 
 export function Button() {
   return (

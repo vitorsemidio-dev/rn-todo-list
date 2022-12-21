@@ -1,11 +1,11 @@
 import { Button } from '@components/Button';
-import { Text, View } from 'react-native';
+import { Container, Text } from './styles';
 
 export function TodoApp() {
   return (
-    <View>
+    <Container>
       <Text>TodoApp</Text>
       <Button />
-    </View>
+    </Container>
   );
 }
