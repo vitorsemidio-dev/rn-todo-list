@@ -21,6 +21,7 @@ export const Content = styled.View`
 export const FormAddTodo = styled.View`
   width: 100%;
   margin-top: -27px;
+  margin-bottom: 32px;
   flex-direction: row;
   align-items: center;
 `;
