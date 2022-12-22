@@ -1,11 +1,18 @@
-import { Button } from '@components/Button';
-import { Container, Text } from './styles';
+import { ButtonIcon } from '@components/ButtonIcon';
+import { Input } from '@components/Input';
+import { Logo } from '@components/Logo';
+import { Container, Content, FormAddTodo } from './styles';
 
 export function TodoApp() {
   return (
     <Container>
-      <Text>TodoApp</Text>
-      <Button />
+      <Logo />
+      <Content>
+        <FormAddTodo>
+          <Input placeholder="Adicione uma nova tarefa" />
+          <ButtonIcon icon="add-circle-outline" style={{ marginLeft: 4 }} />
+        </FormAddTodo>
+      </Content>
     </Container>
   );
 }
