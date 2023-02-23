@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/static/v1?logo=Expo&logoColor=000020&label=Expo&message=Expo&color=000020" alt="Logo Expo cor correta com hex #000020" />
 
-<img src="https://img.shields.io/static/v1?logo=StyledComponents&logoColor=DB7093&label=StyledComponents&message=React Hook Form&color=DB7093" alt="Logo StyledComponents cor correta com hex #DB7093" />
+<img src="https://img.shields.io/static/v1?logo=StyledComponents&logoColor=DB7093&label=StyledComponents&message=Styled%20Components&color=DB7093" alt="Logo StyledComponents cor correta com hex #DB7093" />
 
 <img src="https://img.shields.io/static/v1?logo=TypeScript&logoColor=3178C6&label=TypeScript&message=TypeScript&color=3178C6" alt="Logo TypeScript cor correta com hex #3178C6" />
 </p>
